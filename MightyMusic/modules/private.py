@@ -23,7 +23,7 @@ def _start(client, message):
                     InlineKeyboardButton(
                         "📸 Group", url=f"https://t.me/{SUPPORT_GROUP}"),
                     InlineKeyboardButton(
-                        "✏️ Owner", url=f"https://t.me/{OWNER_USERNAME}")
+                        "💸 Donasi", url=f"https://t.me/{OWNER_USERNAME}")
                 ]
             ]
         ),
@@ -82,7 +82,7 @@ def map(pos):
             [InlineKeyboardButton(text = '📮 Channel', url=f"https://t.me/{SUPPORT_CHANNEL}"),
              InlineKeyboardButton(text = '📸 Group', url=f"https://t.me/{SUPPORT_GROUP}")],
             [InlineKeyboardButton(text = '💡 Owner Bot', url=f"https://t.me/{OWNER_USERNAME}"),
-             InlineKeyboardButton(text = '✏️ Owner Project', url=f"https://t.me/SkyzoSaja")],
+             InlineKeyboardButton(text = '💸 Donasi', url=f"https://t.me/SkyzoSaja")],
             [InlineKeyboardButton(text = 'Kembali', callback_data = f"help+{pos-1}")]
         ]
     else:
