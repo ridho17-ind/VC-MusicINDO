@@ -11,7 +11,7 @@ f"""
 
 ⚪️ Nama Asisten >> @{ASSISTANT_NAME}\n\nKlik tombol dibawah untuk melihat intruksi lain**
 ◎› Owner Bot >> @{OWNER_USERNAME}
-◎› Owner Project >> @ZendYNS
+◎› Owner Project >> @Skyzo Saja
 """,
 
 f"""
@@ -91,7 +91,7 @@ f"""
  • /pmpermit [on/off] - enable/disable pesan pmpermit 
 *Pengguna Sudo dapat menjalankan perintah apa pun di grup mana pun
 
-◎› Owner Project: [Yunus Zend](https://t.me/ZendYNS)
+◎› Owner Project: [Skyzo Gans](https://t.me/SkyzoSaja)
 
 """
       ]
