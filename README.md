@@ -1,6 +1,6 @@
 <a href="https://cooltext.com"><img src="https://images.cooltext.com/5533766.gif" width="802" height="96" alt="King Userbot" /></a>
 
-**_Join [Channel Update](https://t.me/indoinfobot) untuk melihat info seputar bot_**
+**_Join [Channel Update](https://t.me/sadroomsinfo) untuk melihat info seputar bot_**
 
 ![Repo Size](https://img.shields.io/github/repo-size/Yunus-ZEND/VC-MusicINDO?&style=plastic&logo=github)
 [![GitHub issues](https://img.shields.io/github/issues/Yunus-ZEND/VC-MusicINDO?&style=plastic&logo=github)](https://github.com/Yunus-ZEND/VC-MusicINDO/issues)
@@ -17,7 +17,7 @@
 ### Group Support 🇮🇩
 `
 Klik tombol di bawah untuk join ke group support kami`
-   <a href="https://t.me/KingUserbotSupport"><img src="https://img.shields.io/badge/Grup%20Support%3F-Klik Disini-yellow?&style=flat-square?&logo=telegram" width=165px></a></p>
+   <a href="https://t.me/sadroomchat"><img src="https://img.shields.io/badge/Grup%20Support%3F-Klik Disini-yellow?&style=flat-square?&logo=telegram" width=165px></a></p>
 
 ### String Session 🖇
 `
@@ -28,7 +28,7 @@ Klik tombol Run on repl.it untuk membuat string milikmu, tolong pilih P yah jang
 `
 Klik tombol dibawah untuk deploy VC MusicINDO`
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Yunus-ZEND/VC-MusicINDO)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ridho17-ind/VC-MusicINDO)
 
 ![addphoto](https://telegra.ph/file/8218eb6dceae195b9fb6f.jpg)
 
