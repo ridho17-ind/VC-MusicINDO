@@ -16,12 +16,12 @@ def _start(client, message):
             [
                 [
                     InlineKeyboardButton(
-                        "📝 Tambahkan saya ke group", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")],
+                        "📝 Tambahkan Saya Ke Group", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")],
                 [
                     InlineKeyboardButton(
                         "📮 Channel", url=f"https://t.me/{SUPPORT_CHANNEL}"), 
                     InlineKeyboardButton(
-                        "🏷 Group", url=f"https://t.me/{SUPPORT_GROUP}"),
+                        "📸 Group", url=f"https://t.me/{SUPPORT_GROUP}"),
                     InlineKeyboardButton(
                         "✏️ Owner", url=f"https://t.me/{OWNER_USERNAME}")
                 ]
@@ -38,7 +38,7 @@ async def gstart(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🏷 Owner Bot", url=f"https://t.me/{OWNER_USERNAME}"
+                        "🤡 Owner Bot", url=f"https://t.me/{OWNER_USERNAME}"
                     )
                 ]
             ]
@@ -80,9 +80,9 @@ def map(pos):
         button = [
             [InlineKeyboardButton("📝 Tambahkan saya ke group", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")],
             [InlineKeyboardButton(text = '📮 Channel', url=f"https://t.me/{SUPPORT_CHANNEL}"),
-             InlineKeyboardButton(text = '🏷 Group', url=f"https://t.me/{SUPPORT_GROUP}")],
+             InlineKeyboardButton(text = '📸 Group', url=f"https://t.me/{SUPPORT_GROUP}")],
             [InlineKeyboardButton(text = '💡 Owner Bot', url=f"https://t.me/{OWNER_USERNAME}"),
-             InlineKeyboardButton(text = '✏️ Owner Project', url=f"https://t.me/ZendYNS")],
+             InlineKeyboardButton(text = '✏️ Owner Project', url=f"https://t.me/SkyzoSaja")],
             [InlineKeyboardButton(text = 'Kembali', callback_data = f"help+{pos-1}")]
         ]
     else:
@@ -97,7 +97,7 @@ def map(pos):
 @Client.on_message(filters.command("help") & ~filters.private & ~filters.channel)
 async def ghelp(_, message: Message):
     await message.reply_text(
-        f"""**📝 Hallo!! Saya bisa memutar musik baik itu di VC Group atau VC Channel.**""",
+        f"""**📝 Hallo Kamu!! Saya bisa memutar musik baik itu di VC Group atau VC Channel.**""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
