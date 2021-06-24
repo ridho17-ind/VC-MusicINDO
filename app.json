@@ -2,7 +2,7 @@
   "name": "VC MusicProject",
   "description": "Bot Sumber Terbuka untuk memutar lagu di Obrolan Suara Grup Telegram Anda. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/Yunus-ZEND/VC-MusicINDO",
+  "repository": "https://github.com/ridho17-ind/VC-MusicINDO",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
