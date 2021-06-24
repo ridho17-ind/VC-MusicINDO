@@ -5,13 +5,13 @@ class Messages():
       HELP_MSG = [
         ".",
 f"""
-**Hy lagi kamu bertemu lagi dengan saya {PROJECT_NAME}
+**Hy Lagi Kamu Bertemu Lagi Dengan Saya {PROJECT_NAME}
 
 ⚪️ {PROJECT_NAME} bisa memutar musik baik itu di VC Group atau VC Channel
 
 ⚪️ Nama Asisten >> @{ASSISTANT_NAME}\n\nKlik tombol dibawah untuk melihat intruksi lain**
 ◎› Owner Bot >> @{OWNER_USERNAME}
-◎› Owner Project >> @Skyzo Saja
+◎› Owner Project >> @SkyzoSaja
 """,
 
 f"""
